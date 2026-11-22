@@ -49,7 +49,6 @@ privacy-controlled challenges and workout-partner matching, while keeping your p
 | 🤝 Community | Opt-in challenges, leaderboards and workout-partner matching by gym/area and time |
 | 🔒 Secure by Design | MFA, role-based access, encryption, on-device video processing |
 
-> No LLM is used: every message the user sees is a fixed, pre-reviewed message.
 
 ## 🧠 AI Pipeline
 ```
